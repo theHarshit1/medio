@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="380dp"
+    android:background="@drawable/date_time_bg"
+    android:layout_gravity="center"
+    android:padding="20dp">
+
+    <EditText
+        android:id="@+id/classSection"
+        android:layout_width="95dp"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/assignment"
+        android:layout_alignTop="@+id/lastDate"
+        android:cursorVisible="true"
+        android:hint="class" />
+
+    <EditText
+        android:id="@+id/lastDate"
+        android:layout_width="95dp"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/assignment"
+        android:layout_alignParentTop="true"
+        android:cursorVisible="true"
+        android:hint="last date" />
+
+    <EditText
+        android:id="@+id/assignment"
+        android:layout_width="292dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@drawable/roundbutton4"
+        android:cursorVisible="true"
+        android:hint=" assignment"
+        android:lines="7"
+        android:gravity="start"
+        android:padding="8dp"/>
+
+    <Button
+        android:id="@+id/okButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/lastDate"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/roundbutton3"
+        android:text="OK"
+        android:textColor="#e7e9e9" />
+
+    <Button
+        android:id="@+id/cancelButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/classSection"
+        android:layout_alignTop="@+id/okButton"
+        android:background="@drawable/roundbutton3"
+        android:text="cancel"
+        android:textColor="#e7e9e9" />
+</RelativeLayout>

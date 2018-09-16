@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "730300515037",
+    "firebase_url": "https://medio-be9af.firebaseio.com",
+    "project_id": "medio-be9af",
+    "storage_bucket": "medio-be9af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730300515037:android:6fcdd4decbeed776",
+        "android_client_info": {
+          "package_name": "com.example.harshit.medio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730300515037-qen2c8iv1drnb6eanqln37aks8uk745p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqqVCHYvwbC1dHIWXON4WukVY2bdDeGRI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

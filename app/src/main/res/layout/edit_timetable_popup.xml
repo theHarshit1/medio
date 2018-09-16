@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="320dp"
+    android:background="@drawable/date_time_bg"
+    android:layout_gravity="center"
+    android:padding="40dp">
+
+    <EditText
+        android:id="@+id/classSection"
+        android:layout_width="253dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="56dp"
+        android:cursorVisible="true" />
+
+    <Button
+        android:id="@+id/okButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/classSection"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="30dp"
+        android:background="@drawable/feed_background"
+        android:text="OK"
+        android:textColor="#15b8b8" />
+
+    <Button
+        android:id="@+id/cancelButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/classSection"
+        android:layout_alignTop="@+id/okButton"
+        android:background="@drawable/feed_background"
+        android:text="cancel" />
+</RelativeLayout>
