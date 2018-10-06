@@ -16,7 +16,7 @@ Android application for college attendance and assignment management
 ![alt text](https://github.com/theHarshit1/medio/blob/master/Screenshot_20180508-155839.png)
 
 ## Student Login
-![alt text](https://github.com/theHarshit1/medio/blob/master/Screenshot_1525764579.png)
+![alt text](https://github.com/theHarshit1/medio/blob/master/Screenshot_1525771455.png)
 
 ##### Student Time table
 ![alt text](https://github.com/theHarshit1/medio/blob/master/Screenshot_1525771414.png)
