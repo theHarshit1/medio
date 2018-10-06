@@ -9,7 +9,7 @@ Android application for college attendance and assignment management
 ![alt text](https://github.com/theHarshit1/medio/blob/master/Screenshot_1525764555.png)
 
 ##### Teacher time table
-![alt text](https://github.com/theHarshit1/medio/blob/master/Screenshot_1525764579.png)
+![alt text](https://github.com/theHarshit1/medio/blob/master/Screenshot_1525764594.png)
 ##### Teacher Assignment
 ![alt text](https://github.com/theHarshit1/medio/blob/master/Screenshot_1525764631.png)
 ##### Attendance sheet
