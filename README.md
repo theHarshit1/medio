@@ -1,9 +1,11 @@
 # medio
 Android application for college attendance and assignment management
 
+-Teacher and student login with Firebase authentication
 - Digital attendance marking system for teachers
-- Cloud database using firebase
-- Real time attendance in sync with student side interface
+- Real time attendance in sync with student side using Firebase database
+- Assignment delivery from teacher to student dashboards
+
 # Modules
 # Teacher Login
 ![alt text](https://github.com/theHarshit1/medio/blob/master/Screenshot_1525764555.png)
